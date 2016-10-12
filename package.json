@@ -1,0 +1,26 @@
+{
+  "name": "node-libs-testing",
+  "version": "1.0.0",
+  "description": "Testing libraries of Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phudev95/node-libs-testing.git"
+  },
+  "keywords": [
+    "node",
+    "libs"
+  ],
+  "author": "phudev95@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phudev95/node-libs-testing/issues"
+  },
+  "homepage": "https://github.com/phudev95/node-libs-testing#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
